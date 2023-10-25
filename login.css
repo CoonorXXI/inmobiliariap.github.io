@@ -1,4 +1,4 @@
-/* Estilos generales (pueden copiarse desde otros ejemplos) */
+/* Estilos generales */
 body {
   font-family: Arial, sans-serif;
   background-color: #f0f0f0;
@@ -51,7 +51,7 @@ main {
   }
   
   input {
-    width: 100%;
+    width: 90%;
     padding: 10px;
     margin-top: 5px;
   }
@@ -66,5 +66,10 @@ main {
     cursor: pointer;
   }
   
-  /* Estilos del pie de página (pueden copiarse desde otros ejemplos) */
-  
+    /* Estilos del pie de página */
+    footer {
+      background-color: #333;
+      color: #fff;
+      text-align: center;
+      padding: 10px 0;
+    }
